@@ -1,0 +1,10 @@
+pyrogram
+user_agent
+heroku3
+gitpython
+requests
+pytube
+sqlalchemy
+asyncio
+telegraph
+TgCrypto
